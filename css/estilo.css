@@ -15,31 +15,9 @@ h3 {
   height: 100px;
 }
 
-#logoSonic {
-  width: 100px;
-  background-color: powderblue;
-}
-
 .fotoCarousel {
   margin-left: 250px;
   width: 499px;
   height: 699px;
   border-radius: 5px;
-}
-
-main p {
-  text-align: start;
-  color: black;
-  width: 80%;
-  float: right;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 20px;
-  text-shadow: pink;
-}
-
-main h4 {
-  font-family: "Times New Roman", Times, serif;
-  color: black;
-  font-weight: bold;
-  text-shadow: pink;
 }
